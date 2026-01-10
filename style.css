@@ -239,7 +239,18 @@ h1, h5 {
 #Haedong p,
 #Beomeo-sa p,
 #Parque-Yongdusan p {
+  margin-bottom: 4px;
+}
+
+#Haedong li,
+#Beomeo-sa li {
   margin-bottom: 48px;
+}
+
+#Haedong li,
+#Beomeo-sa li,
+#Parque-Yongdusan li {
+  margin-left: 16px;
 }
 
 #Haedong img,
